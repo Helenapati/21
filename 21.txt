@@ -1,0 +1,20 @@
+public class { 
+    //emprestimo
+      public double dinhero;
+        System.out.println("Quanditade:" dinheiro);
+    //livros 
+      public String livros;
+      public double quantidade;
+        System.out.println("Tudo:" + livros + quantidade);
+    //pessoas
+      public String nome; 
+      public double idade;
+      public double identidade; 
+        System.out.println("Identificação:" + nome + idade + identidade);
+      
+      
+      
+    
+    
+     
+}
